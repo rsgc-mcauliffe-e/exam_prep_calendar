@@ -28,6 +28,7 @@
 		810DC52F1ECE131E003B71EE /* Exam Prep - 1 - Calendar - Algorithm.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exam Prep - 1 - Calendar - Algorithm.docx"; sourceTree = "<group>"; };
 		810DC5301ECE131E003B71EE /* Exam Prep - 1 - Calendar - Test Plan.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exam Prep - 1 - Calendar - Test Plan.docx"; sourceTree = "<group>"; };
 		810DC5311ECE1335003B71EE /* Exam Prep - 1 - Calendar.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Exam Prep - 1 - Calendar.pdf"; sourceTree = "<group>"; };
+		AA43251A1ED7522A002B5335 /* Exam Prep - 1 - Calendar - Test Plan.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Exam Prep - 1 - Calendar - Test Plan.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +73,7 @@
 				810DC52F1ECE131E003B71EE /* Exam Prep - 1 - Calendar - Algorithm.docx */,
 				810DC5301ECE131E003B71EE /* Exam Prep - 1 - Calendar - Test Plan.docx */,
 				810DC5311ECE1335003B71EE /* Exam Prep - 1 - Calendar.pdf */,
+				AA43251A1ED7522A002B5335 /* Exam Prep - 1 - Calendar - Test Plan.pdf */,
 			);
 			name = Documents;
 			sourceTree = "<group>";
@@ -269,6 +271,7 @@
 				810DC52D1ECE12AE003B71EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

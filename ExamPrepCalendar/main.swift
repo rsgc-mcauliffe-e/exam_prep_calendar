@@ -88,7 +88,6 @@ if inputToProcess[0] > 1{
 		output.append("   ")
 	}
 }
-//output.append("a")
 for i in 1...inputToProcess[1]{
 	if (((inputToProcess[0]-2) + i ) % 7) == 0 && i != 1{
 		output.append("\n")
